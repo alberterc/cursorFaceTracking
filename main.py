@@ -1,5 +1,4 @@
 import cv2
-# import os
 import numpy as np
 from pynput.mouse import Button, Controller
 
