@@ -5,7 +5,7 @@ from pynput.mouse import Button, Controller
 
 #init
 ###CAN BE MODIFIED###
-faceCascade = cv2.CascadeClassifier('D:/Coding/Python 3/Cursor control with face recog/classifier/haarcascade_frontalface_default.xml')
+faceCascade = cv2.CascadeClassifier('D:/Coding/Python 3/Cursor Face Tracking/classifier/haarcascade_frontalface_default.xml')
 ###CAN BE MODIFIED###
 font = cv2.FONT_HERSHEY_SIMPLEX
 mouse = Controller()
