@@ -90,4 +90,4 @@ moveY = 30
 
 ## Developer
 
-- Albert E (RadX) vradnisntlong@gmail.com
+- Albert E (albertenrico.5@gmail.com)
